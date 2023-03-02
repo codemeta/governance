@@ -1,0 +1,13 @@
+site_name: Codemeta Governance
+docs_dir: Chapters
+theme: readthedocs
+use_directory_urls: true
+nav:
+
+- 'Governance': Governance.md
+
+copyright: Copyright &copy; 2022-2023 - Codemeta Contributors.
+
+markdown_extensions:
+- codehilite:
+   guess_lang: false
