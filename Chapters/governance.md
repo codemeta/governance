@@ -1,5 +1,5 @@
 # CodeMeta Project Governance 
-The CodeMeta governance model is based on the template provided by Meritocratic governance model by Ross Gardler and Gabriel Hanganu is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License .
+The CodeMeta governance model is based on the template provided by Meritocratic governance model by Ross Gardler and Gabriel Hanganu is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 
 ## 1. Introduction
 
