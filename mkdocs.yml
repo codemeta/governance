@@ -4,7 +4,7 @@ theme: readthedocs
 use_directory_urls: true
 nav:
 
-- 'Governance': Governance/
+- 'Governance': governance/
 
 copyright: Copyright &copy; 2022-2023 - Codemeta Contributors.
 
