@@ -22,7 +22,7 @@ jobs:
     - name: Build
       run: mkdocs build -v --clean
     - name: Upload
-      uses: actions/upload-artifact@v1
+      uses: actions/upload-pages-artifact@v1
       with:
         path: ./site
   deploy:
