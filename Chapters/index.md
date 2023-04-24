@@ -21,6 +21,8 @@ The CodeMeta community oversees development of the following:
 - The website: https://codemeta.github.io/
 - The hosted CodeMeta generator: https://codemeta.github.io/codemeta-generator/
 
+This website is generated directly from the [codemeta/governance repository](https://github.com/codemeta/governance)
+
 Copyright © 2022-2023 Codemeta Contributors.
 
 This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
