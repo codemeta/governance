@@ -17,3 +17,23 @@ The CodeMeta community oversees development of the following
 The CodeMeta community is an open community that operates according to the rules specified in this repository.
 
 The CodeMeta governance model is based on the template provided by Meritocratic governance model by Ross Gardler and Gabriel Hanganu is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+
+## People
+### Project Mangement Committee (PMC)
+| Name             | Email                | Institution               | GitHub  |
+|------------------|----------------------|-------------------------| --------|
+| Matthew B. Jones | jones@nceas.ucsb.edu | NCEAS, UC Santa Barbara | [@mbjones](http://github.com/mbjones) |
+| Carl Boettiger   | | UC Berkeley | [@cboettig](http://github.com/cboettig) |
+| Abby Cabunoc Mayes | | Mozilla Science Lab | [@acabunoc](http://github.com/acabunoc) |
+| Arfon Smith | | GitHub | [@arfon](http://github.com/arfon) |
+| Morane Gruenpeter | morane@softwareheritage.org | Software Heritage | [@moranegg](https://github.com/moranegg) |
+| Valentin Lorentz | vlorentz@softwareheritage.org | Software Heritage | [@progval](https://github.com/progval) |
+| Thomas Morrell | tmorrell@library.caltech.edu | Caltech Library | [@tmorell](https://github.com/tmorrell) |
+| Daniel Garijo |  |  Universidad Politécnica de Madrid | [@dgarijo](https://github.com/dgarijo)  |
+
+### Committer group
+- cboettig
+- mbjones
+- abbycabs
+- progval
+- moranegg
