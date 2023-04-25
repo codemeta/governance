@@ -21,7 +21,7 @@ The current pmc members are, in first name alphabetical order:
 | Valentin Lorentz | Software Heritage | [@progval](https://github.com/progval) |
 
 
-### Committers {#committers}
+### Committers
 
 The current committers are,  in first name alphabetical order:
 
