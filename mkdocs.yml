@@ -5,6 +5,7 @@ use_directory_urls: true
 nav:
 
 - 'Governance': governance/
+- 'People': people/
 
 copyright: Copyright &copy; 2022-2023 - Codemeta Contributors.
 
