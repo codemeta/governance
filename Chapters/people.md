@@ -1,18 +1,11 @@
----
-layout: page
-title: Core Team
-nav_order: 2
-permalink: /people/
----
-
-# People {#people}
+# People
 
 Link to the CONTRIBUTORS file on the codemta/codemeta repository:
 https://github.com/codemeta/codemeta/blob/master/CONTRIBUTORS.MD
 
 For the full list of contributors in the CodeMeta community.
 
-### Porject Management Committee (PMC) {#pmc}
+### Porject Management Committee (PMC) 
 
 The current pmc members are, in first name alphabetical order:
 
