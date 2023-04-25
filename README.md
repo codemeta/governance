@@ -20,16 +20,18 @@ The CodeMeta governance model is based on the template provided by Meritocratic 
 
 ## People
 ### Project Mangement Committee (PMC)
+The current pmc members are, in first name alphabetical order:
 | Name             | Email                | Institution               | GitHub  |
 |------------------|----------------------|-------------------------| --------|
-| Matthew B. Jones | jones@nceas.ucsb.edu | NCEAS, UC Santa Barbara | [@mbjones](http://github.com/mbjones) |
-| Carl Boettiger   | | UC Berkeley | [@cboettig](http://github.com/cboettig) |
 | Abby Cabunoc Mayes | | Mozilla Science Lab | [@acabunoc](http://github.com/acabunoc) |
 | Arfon Smith | | GitHub | [@arfon](http://github.com/arfon) |
-| Morane Gruenpeter | morane@softwareheritage.org | Software Heritage | [@moranegg](https://github.com/moranegg) |
-| Valentin Lorentz | vlorentz@softwareheritage.org | Software Heritage | [@progval](https://github.com/progval) |
-| Thomas Morrell | tmorrell@library.caltech.edu | Caltech Library | [@tmorell](https://github.com/tmorrell) |
+| Carl Boettiger   | | UC Berkeley | [@cboettig](http://github.com/cboettig) |
 | Daniel Garijo |  |  Universidad Politécnica de Madrid | [@dgarijo](https://github.com/dgarijo)  |
+| Matthew B. Jones | jones@nceas.ucsb.edu | NCEAS, UC Santa Barbara | [@mbjones](http://github.com/mbjones) |
+| Morane Gruenpeter | morane@softwareheritage.org | Software Heritage | [@moranegg](https://github.com/moranegg) |
+| Thomas Morrell | tmorrell@library.caltech.edu | Caltech Library | [@tmorell](https://github.com/tmorrell) |
+| Valentin Lorentz | vlorentz@softwareheritage.org | Software Heritage | [@progval](https://github.com/progval) |
+
 
 ### Committer group
 - cboettig
