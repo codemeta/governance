@@ -7,10 +7,10 @@ Governance documents for the CodeMeta community
 This repository contains documents that describe the governance practices for the CodeMeta community
 
 The CodeMeta community oversees development of the following 
-- the CodeMeta vocabulary
-- the CodeMeta crosswalk table
-- the CodeMeta website
-- the CodeMeta generator
+- [the CodeMeta vocabulary](https://github.com/codemeta/codemeta)
+- [the CodeMeta crosswalk table](https://github.com/codemeta/codemeta/blob/master/crosswalk.csv)
+- [the CodeMeta website](https://github.com/codemeta/codemeta.github.io)
+- [the CodeMeta generator](https://github.com/codemeta/codemeta-generator)
 
 ## Governance
 
@@ -20,7 +20,9 @@ The CodeMeta governance model is based on the template provided by Meritocratic 
 
 ## People
 ### Project Mangement Committee (PMC)
-The current pmc members are, in first name alphabetical order:
+Following the CodeMeta PMC [vote in May 2023](https://groups.google.com/g/codemeta-pmc/c/ccSSP57A7tI/m/rg4WJVa5AQAJ), the current chair of the PMC is Morane Gruenpeter.
+
+The CodeMeta PMC members since October 2022 are (in first name alphabetical order):
 | Name             | Email                | Institution               | GitHub  |
 |------------------|----------------------|-------------------------| --------|
 | Abby Cabunoc Mayes | | Mozilla Science Lab | [@acabunoc](http://github.com/acabunoc) |
