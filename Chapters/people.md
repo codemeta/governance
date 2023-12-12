@@ -20,6 +20,11 @@ The current pmc members are, in first name alphabetical order:
 | Thomas Morrell | Caltech Library | [@tmorell](https://github.com/tmorrell) |
 | Valentin Lorentz | Software Heritage | [@progval](https://github.com/progval) |
 
+Following the CodeMeta PMC 
+[vote in May 2023](https://groups.google.com/g/codemeta-pmc/c/ccSSP57A7tI/m/rg4WJVa5AQAJ), 
+the current chair of the PMC is Morane Gruenpeter.
+
+For more information about governance structure [here](./governance.md)
 
 ### Committers
 
