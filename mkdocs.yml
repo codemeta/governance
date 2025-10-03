@@ -1,13 +1,12 @@
-site_name: Codemeta Governance
+site_name: CodeMeta Governance
 docs_dir: Chapters
 theme: readthedocs
 use_directory_urls: true
 nav:
-
 - 'Governance': governance/
 - 'People': people/
 
-copyright: Copyright &copy; 2022-2023 - Codemeta Contributors.
+copyright: Copyright &copy; 2022-2023 - CodeMeta Contributors.
 
 markdown_extensions:
 - codehilite:
