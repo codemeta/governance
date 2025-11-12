@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-latest
     container: python:3
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v5
       with:
         ref: 'main'
     - name: Install pre-requisites
@@ -22,7 +22,7 @@ jobs:
     - name: Build
       run: mkdocs build -v --clean
     - name: Upload
-      uses: actions/upload-pages-artifact@v1
+      uses: actions/upload-pages-artifact@v4
       with:
         path: ./site
   deploy:
@@ -34,4 +34,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
