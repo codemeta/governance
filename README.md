@@ -25,8 +25,8 @@ Following the CodeMeta PMC [vote in May 2023](https://groups.google.com/g/codeme
 The CodeMeta PMC members since October 2022 are (in first name alphabetical order):
 | Name             | Email                | Institution               | GitHub  |
 |------------------|----------------------|-------------------------| --------|
-| Abby Cabunoc Mayes | | Mozilla Science Lab | [@acabunoc](http://github.com/acabunoc) |
-| Arfon Smith | | GitHub | [@arfon](http://github.com/arfon) |
+| Abby Cabunoc Mayes | | GitHub | [@acabunoc](http://github.com/acabunoc) |
+| Arfon Smith | | Schmidt Sciences | [@arfon](http://github.com/arfon) |
 | Carl Boettiger   | | UC Berkeley | [@cboettig](http://github.com/cboettig) |
 | Daniel Garijo |  |  Universidad Politécnica de Madrid | [@dgarijo](https://github.com/dgarijo)  |
 | Matthew B. Jones | jones@nceas.ucsb.edu | NCEAS, UC Santa Barbara | [@mbjones](http://github.com/mbjones) |
