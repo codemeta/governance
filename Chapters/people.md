@@ -5,7 +5,7 @@ Link to the CONTRIBUTORS file on the codemta/codemeta repository:
 
 For the full list of contributors in the CodeMeta community.
 
-## Porject Management Committee (PMC)
+## Project Management Committee (PMC)
 
 The current PMC members are, in first name alphabetical order:
 
